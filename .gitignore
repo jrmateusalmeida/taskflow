@@ -1,0 +1,58 @@
+
+# ========================================
+# TASKFLOW - GITIGNORE
+# ========================================
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Arquivos locais de configuração
+application-local.yml
+application-local.yaml
+application-local.properties
+application-secrets.yml
+application-secrets.yaml
+application-secrets.properties
+
+# Node.js / React / Vite
+node_modules/
+dist/
+coverage/
+.vite/
+*.tsbuildinfo
+
+# Java / Spring Boot / Maven
+target/
+*.class
+*.log
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backups e bancos de dados
+*.sql
+*.dump
+*.backup
+*backup*.json
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+
+# Resultados de testes da API
+taskflow-api-verificacao.json
