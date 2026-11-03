@@ -19,19 +19,19 @@ Comentários e histórico são locais e não têm autoria autenticada. Relatóri
 ## 📸 Capturas de tela
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](docs/images/screenshots/dashboard.png)
 
 ### Quadro Kanban
-![Kanban](screenshots/kanban.png)
+![Kanban](docs/images/screenshots/kanban.png)
 
 ### Projetos
-![Projetos](screenshots/projetos.png)
+![Projetos](docs/images/screenshots/projetos.png)
 
 ### Calendário
-![Calendário](screenshots/calendario.png)
+![Calendário](docs/images/screenshots/calendario.png)
 
 ### Relatórios
-![Relatórios](screenshots/relatorios.png)
+![Relatórios](docs/images/screenshots/relatorios.png)
 
 ### Criação de tarefas
-![Nova tarefa](screenshots/nova-tarefa.png)
+![Nova tarefa](docs/images/screenshots/nova-tarefa.png)
