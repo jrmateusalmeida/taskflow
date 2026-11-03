@@ -15,3 +15,23 @@ Na pasta `frontend` execute `npm.cmd run dev` (se as dependências já estiverem
 
 ## Limitações
 Comentários e histórico são locais e não têm autoria autenticada. Relatórios são instantâneos, não históricos. Anexos e backend ainda não foram implementados.
+
+## 📸 Capturas de tela
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Quadro Kanban
+![Kanban](screenshots/kanban.png)
+
+### Projetos
+![Projetos](screenshots/projetos.png)
+
+### Calendário
+![Calendário](screenshots/calendario.png)
+
+### Relatórios
+![Relatórios](screenshots/relatorios.png)
+
+### Criação de tarefas
+![Nova tarefa](screenshots/nova-tarefa.png)
